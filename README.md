@@ -12,7 +12,7 @@
 .  
 .  
 * 演示视频如下
-  http://ncurobot.club/Share/
+  http://ncurobot.club/Share/【视频演示】知网文章下载器.wmv
   
 * 体验链接：https://pan.baidu.com/s/1f6XY7dNNdX0ZH-OIMDMVpQ   提取码：lfku 
   
