@@ -33,4 +33,5 @@
   
 * 体验链接：https://pan.baidu.com/s/1f6XY7dNNdX0ZH-OIMDMVpQ   提取码：lfku 
   
-  
+公众号：  
+![公众号](https://github.com/1061700625/RemoteFileTransfer/blob/master/qrcode.jpg)
